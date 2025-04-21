@@ -233,13 +233,17 @@ code {
 	border-color: #0aa1c0;
 }
 
+/* Custom link color */
 a {
 	color: #d516f4;
   }
+  
+  /* Custom body text color */
   body {
 	color: #5cffff;
   }
-  .bg-header-footer, .card, .modal-content {
+  
+  /* Custom backgrounds for header/footer or panels */
+  .bg-header-footer, .card, .modal-content, .navbar, .footer {
 	background-color: #191919 !important;
   }
-  
